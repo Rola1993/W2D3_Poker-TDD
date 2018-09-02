@@ -1,6 +1,6 @@
 # W2D3_Poker-TDD
 
-# Poker [five card draw][five-card-draw] 
+## Poker [five card draw][five-card-draw] 
 
 ## Rules
 
