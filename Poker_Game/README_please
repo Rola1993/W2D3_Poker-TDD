@@ -1,0 +1,7 @@
+Do it in this order: (as per the order specs were built in class)
+
+bundle exec rspec spec/card_spec.rb
+bundle exec rspec spec/deck_spec.rb
+bundle exec rspec spec/hand_spec.rb
+bundle exec rspec spec/player_spec.rb
+bundle exec rspec spec/game_spec.rb
